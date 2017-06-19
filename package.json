@@ -1,0 +1,22 @@
+{
+  "name": "threejsaddons",
+  "version": "1.0.0",
+  "description": "Addons for ThreeJs",
+  "main": "index.js",
+  "dependencies": {
+    "three": "0.83.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Indaym/ThreeJsAddons.git"
+  },
+  "author": "Nicolas Delahaigue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Indaym/ThreeJsAddons/issues"
+  },
+  "homepage": "https://github.com/Indaym/ThreeJsAddons#readme"
+}
